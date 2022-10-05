@@ -4,7 +4,6 @@ import NomComplet from './composant/profil/nomComplet';
 import Adresse from './composant/profil/adresse';
 
 function App() {
-
   return (
     <div className="App">
       <div className='photo'>
@@ -17,5 +16,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
