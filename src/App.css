@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid blue 0.5rem;
+  width: 30rem;
+  margin : auto;
+  margin-top: 10rem;
+}
+.Masse{
+  width: 10rem;
+  height: 12rem;
+}
+.paragraphe{
+  text-align: justify;
+  margin-right: 2rem;
+  
+}
